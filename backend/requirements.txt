@@ -1,8 +1,9 @@
-fastapi==0.109.0
-uvicorn[standard]==0.27.0
-python-multipart==0.0.6
-opencv-python==4.9.0.80
-librosa==0.10.1
-numpy==1.24.3
-scipy==1.11.4
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.6
+opencv-python-headless>=4.9.0
+librosa>=0.10.1
+numpy>=1.26.0
+scipy>=1.11.0
 soundfile>=0.12.1
+audioread>=3.0.0
