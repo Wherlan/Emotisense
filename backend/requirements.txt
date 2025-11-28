@@ -3,6 +3,6 @@ uvicorn[standard]==0.27.0
 python-multipart==0.0.6
 opencv-python==4.9.0.80
 librosa==0.10.1
-numpy>=2.1.0
-scipy>=1.13.0
+numpy==1.24.3
+scipy==1.11.4
 soundfile>=0.12.1
